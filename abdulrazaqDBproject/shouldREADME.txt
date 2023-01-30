@@ -1,1 +1,0 @@
-after running window.exe and the gui appears just press "ctrl" i add a key event so when you use "ctrl" it will be totally ready to ues. enjoy
